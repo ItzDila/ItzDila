@@ -34,7 +34,7 @@ status      : available for work
 
 </div>
 
-`JavaScript` `TypeScript` `Next.js` `React` `Node.js` `Kotlin` `Java · Spring Boot` `Python` `SQL` `Power BI` `Git` `Photoshop` `After Effects`
+`JavaScript` `TypeScript` `Next.js` `React` `Node.js` `Kotlin` `Java · Spring Boot` `Python` `SQL` `Power BI` `Git`
 
 <br/>
 
