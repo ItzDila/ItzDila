@@ -17,7 +17,7 @@ $ neofetch --user timesh
 --------------------------------------
 role        : developer, occasionally designer
 location    : Sri Lanka
-education   : HNDSE@ NIBM
+education   : HNDSE  @ NIBM
 focus       : web dev · systems · data
 status      : available for work
 --------------------------------------
