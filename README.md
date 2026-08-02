@@ -1,61 +1,78 @@
 <div align="center">
 
-<br/>
-
-# Timesh Dillon
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Designer;Developer;Video+Editor&font=JetBrains+Mono&center=true&width=300&height=40&duration=2500&pause=800&color=666666&vCenter=true&size=18&weight=500"/>
-
-Sri Lanka
-
-[timesh.me](https://timesh.me) · [LinkedIn](https://www.linkedin.com/in/timesh-dillon) · [Instagram](https://www.instagram.com/___dila.z____/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=TIMESH%20DILLON&fontColor=00FF41&fontSize=42&fontAlignY=55&animation=blink&desc=%3E%20_&descAlignY=80&descSize=18&descColor=00FF41&fontFamily=JetBrains%20Mono" width="100%"/>
 
 <br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com/?lines=%3E+whoami;Timesh+Dillon;%3E+status;online+%E2%80%94+available+for+work;%3E+location;Sri+Lanka&font=JetBrains+Mono&center=true&width=500&height=60&duration=2200&pause=700&color=00FF41&vCenter=true&size=18&background=00000000"/>
 
----
-
-A creative who blends visual storytelling with modern technology — building brands, videos, and digital experiences.
-
-**4+ years** · **40+ projects** · **20+ clients**
-
-Currently studying HDSE / HNDIS at NIBM.
-
-<br/>
-
-### Work
-
-- **Graphic Design** — branding & visuals
-- **Web Development** — code & UX
-- **Video Editing** — motion & production
-
-<br/>
-
-### Stack
-
-`Next.js` `React` `JavaScript` `Kotlin` `Java / Spring Boot` `Python` `Power BI` · `Photoshop` `Illustrator` `After Effects` `Premiere Pro` `Figma`
-
-<br/>
-
-### GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ItzDila&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333333&icon_color=666666&title_color=333333" height="150"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/ItzDila/ItzDila/output/github-contribution-grid-snake.svg" width="100%"/>
+[timesh.me](https://timesh.me) · [github/ItzDila](https://github.com/ItzDila) · [linkedin](https://www.linkedin.com/in/timesh-dillon)
 
 </div>
 
 <br/>
 
----
+```
+
+$ neofetch --user timesh
+
+--------------------------------------
+role        : developer, occasionally designer
+location    : Sri Lanka
+experience  : 4+ years
+education   : HDSE / HNDIS @ NIBM
+focus       : web dev · systems · data
+status      : available for work
+--------------------------------------
+
+```
+
+<br/>
+
+### stack
 
 <div align="center">
 
-<sub>Let's build something together — <a href="https://wa.me/94717735051">get in touch</a></sub>
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,kotlin,java,spring,python,mysql,git,vercel&theme=dark" />
 
+</div>
+
+`JavaScript` `TypeScript` `Next.js` `React` `Node.js` `Kotlin` `Java · Spring Boot` `Python` `SQL` `Power BI` `Git`
+
+<br/>
+
+### currently building
+
+- Real-time IoT driver behaviour monitoring system
+- ML-based driver behaviour classification from sensor data
+- Personal finance tracking web app
+- AI-assisted embedded systems design tool
+
+<br/>
+
+### github activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ItzDila&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_title=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDila&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=c9d1d9&hide=html,css" height="150"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/ItzDila/ItzDila/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+```
+
+$ echo "also do design + video on the side"
+$ open https://timesh.me
+
+```
+
+<div align="center">
+<sub><a href="https://wa.me/94717735051">get in touch</a></sub>
 </div>
