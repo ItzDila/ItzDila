@@ -1,8 +1,8 @@
 <div align="center">
 
-# TIMESH DILLON
+<img src="https://readme-typing-svg.demolab.com/?lines=01010100.01001001.01001101.01000101.01010011.01001000;T%C4%B1M35H_D%C4%B1LL0N;%3E+decoding+identity...;TIMESH+DILLON&font=JetBrains+Mono&center=true&weight=800&width=600&height=70&duration=1800&pause=900&color=00FF41&vCenter=true&size=42"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%3E+whoami;Timesh+Dillon;%3E+location;Sri+Lanka;%3E+status;available+for+work&font=JetBrains+Mono&center=true&width=500&height=50&duration=2000&pause=700&color=00FF41&vCenter=true&size=18"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%3E+whoami;Timesh+Dillon;%3E+location;Sri+Lanka;%3E+status;available+for+work&font=JetBrains+Mono&center=true&width=500&height=50&duration=2000&pause=700&color=8b949e&vCenter=true&size=18"/>
 
 [timesh.me](https://timesh.me) &nbsp;·&nbsp; [github/ItzDila](https://github.com/ItzDila) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/timesh-dillon)
 
